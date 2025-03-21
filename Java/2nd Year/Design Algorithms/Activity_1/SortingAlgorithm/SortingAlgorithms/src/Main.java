@@ -1,12 +1,3 @@
-/*
- * =======================================
- * Made by: Marc Rovic Mapa
- * 2nd Year College in Batangas State University - Alangilan
- * Activity 1 || Sorting Algorithm Analysis
- * Design and Analysis of Algorithms
- * =======================================
- * */
-
 import java.util.Arrays;
 import java.util.Random;
 

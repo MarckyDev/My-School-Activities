@@ -1,10 +1,3 @@
-/* ITEM # 1 ACTIVITY 2
-Mapa, Marc Rovic M.
-CS-2102
-CS-211: OBJECT-ORIENTED PROGRAMMING
-OCTOBER 1, 2022
-*/
-
 class Main {
     public static void main (String[] args){
         // Square the contents of the array
