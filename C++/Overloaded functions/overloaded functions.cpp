@@ -34,7 +34,6 @@ int main (){
 	double d1 = 3.1416, d2 = 4, d3 = 3;
 	int i1 = 5, i2 = 4, i3 = 3;
 	
-	cout << "Ang code ni Mapa :D\n\n";
 	
 	cout << "Sphere Volume : " << volume (f1, f2)<<"\n";
 	
